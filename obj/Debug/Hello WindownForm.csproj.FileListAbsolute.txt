@@ -1,0 +1,26 @@
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\bin\Debug\Hello WindownForm.exe.config
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\bin\Debug\Hello WindownForm.exe
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\bin\Debug\Hello WindownForm.pdb
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Form1.resources
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Properties.Resources.resources
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.exe
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.pdb
+C:\Users\Asus\source\repos\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Form2.resources
+E:\c#\Hello WindownForm\Hello WindownForm\bin\Debug\Hello WindownForm.exe.config
+E:\c#\Hello WindownForm\Hello WindownForm\bin\Debug\Hello WindownForm.exe
+E:\c#\Hello WindownForm\Hello WindownForm\bin\Debug\Hello WindownForm.pdb
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.csproj.AssemblyReference.cache
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Form1.resources
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Form2.resources
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Properties.Resources.resources
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.csproj.GenerateResource.cache
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.csproj.CoreCompileInputs.cache
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.exe
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello WindownForm.pdb
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Form3.resources
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.Form4.resources
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.DuAn.resources
+E:\c#\Hello WindownForm\Hello WindownForm\obj\Debug\Hello_WindownForm.matkhau.resources
